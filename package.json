@@ -1,7 +1,7 @@
 {
   "name": "spa_react",
-  "home": "https://george-avsa.github.io/react-food/",
-  "homepage": "https://george-avsa.github.io/react-food/",
+  "home": "https://george-avsa.github.io/",
+  "homepage": "https://george-avsa.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
